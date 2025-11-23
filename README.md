@@ -1,1 +1,1 @@
-Course that I took in Fall 2023.
+The course that I took in Fall 2023.
